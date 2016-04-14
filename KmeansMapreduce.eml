@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="asm-3.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/asm-3.2.jar!/"/>
+	</lib>
+	<lib name="aspectjrt-1.6.11.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/aspectjrt-1.6.11.jar!/"/>
+	</lib>
+	<lib name="aspectjtools-1.6.11.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/aspectjtools-1.6.11.jar!/"/>
+	</lib>
+	<lib name="commons-beanutils-1.7.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-beanutils-1.7.0.jar!/"/>
+	</lib>
+	<lib name="commons-beanutils-core-1.8.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-beanutils-core-1.8.0.jar!/"/>
+	</lib>
+	<lib name="commons-cli-1.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-cli-1.2.jar!/"/>
+	</lib>
+	<lib name="commons-codec-1.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-codec-1.4.jar!/"/>
+	</lib>
+	<lib name="commons-collections-3.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-collections-3.2.1.jar!/"/>
+	</lib>
+	<lib name="commons-configuration-1.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-configuration-1.6.jar!/"/>
+	</lib>
+	<lib name="commons-daemon-1.0.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-daemon-1.0.1.jar!/"/>
+	</lib>
+	<lib name="commons-digester-1.8.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-digester-1.8.jar!/"/>
+	</lib>
+	<lib name="commons-el-1.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-el-1.0.jar!/"/>
+	</lib>
+	<lib name="commons-httpclient-3.0.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-httpclient-3.0.1.jar!/"/>
+	</lib>
+	<lib name="commons-io-2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-io-2.1.jar!/"/>
+	</lib>
+	<lib name="commons-lang-2.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-lang-2.4.jar!/"/>
+	</lib>
+	<lib name="commons-logging-1.1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-logging-1.1.1.jar!/"/>
+	</lib>
+	<lib name="commons-logging-api-1.0.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-logging-api-1.0.4.jar!/"/>
+	</lib>
+	<lib name="commons-math-2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-math-2.1.jar!/"/>
+	</lib>
+	<lib name="commons-net-3.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/commons-net-3.1.jar!/"/>
+	</lib>
+	<lib name="core-3.1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/core-3.1.1.jar!/"/>
+	</lib>
+	<lib name="hadoop-ant-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/hadoop-ant-1.2.1.jar!/"/>
+	</lib>
+	<lib name="hadoop-capacity-scheduler-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/hadoop-capacity-scheduler-1.2.1.jar!/"/>
+	</lib>
+	<lib name="hadoop-client-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/hadoop-client-1.2.1.jar!/"/>
+	</lib>
+	<lib name="hadoop-core-1.2.1.jar" scope="COMPILE">
+		<srcroot url="file://F:/majorSoftwareInstall/hadoop-1.2.1/src"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/hadoop-core-1.2.1.jar!/"/>
+	</lib>
+	<lib name="hadoop-examples-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/hadoop-examples-1.2.1.jar!/"/>
+	</lib>
+	<lib name="hadoop-fairscheduler-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/hadoop-fairscheduler-1.2.1.jar!/"/>
+	</lib>
+	<lib name="hadoop-minicluster-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/hadoop-minicluster-1.2.1.jar!/"/>
+	</lib>
+	<lib name="hadoop-test-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/hadoop-test-1.2.1.jar!/"/>
+	</lib>
+	<lib name="hadoop-thriftfs-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/hadoop-thriftfs-1.2.1.jar!/"/>
+	</lib>
+	<lib name="hadoop-tools-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/hadoop-tools-1.2.1.jar!/"/>
+	</lib>
+	<lib name="hsqldb-1.8.0.10.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/hsqldb-1.8.0.10.jar!/"/>
+	</lib>
+	<lib name="jackson-core-asl-1.8.8.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jackson-core-asl-1.8.8.jar!/"/>
+	</lib>
+	<lib name="jackson-mapper-asl-1.8.8.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jackson-mapper-asl-1.8.8.jar!/"/>
+	</lib>
+	<lib name="jasper-compiler-5.5.12.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jasper-compiler-5.5.12.jar!/"/>
+	</lib>
+	<lib name="jasper-runtime-5.5.12.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jasper-runtime-5.5.12.jar!/"/>
+	</lib>
+	<lib name="jdeb-0.8.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jdeb-0.8.jar!/"/>
+	</lib>
+	<lib name="jersey-core-1.8.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jersey-core-1.8.jar!/"/>
+	</lib>
+	<lib name="jersey-json-1.8.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jersey-json-1.8.jar!/"/>
+	</lib>
+	<lib name="jersey-server-1.8.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jersey-server-1.8.jar!/"/>
+	</lib>
+	<lib name="jets3t-0.6.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jets3t-0.6.1.jar!/"/>
+	</lib>
+	<lib name="jetty-6.1.26.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jetty-6.1.26.jar!/"/>
+	</lib>
+	<lib name="jetty-util-6.1.26.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jetty-util-6.1.26.jar!/"/>
+	</lib>
+	<lib name="jsch-0.1.42.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/jsch-0.1.42.jar!/"/>
+	</lib>
+	<lib name="junit-4.5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/junit-4.5.jar!/"/>
+	</lib>
+	<lib name="kfs-0.2.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/kfs-0.2.2.jar!/"/>
+	</lib>
+	<lib name="log4j-1.2.15.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/log4j-1.2.15.jar!/"/>
+	</lib>
+	<lib name="mockito-all-1.8.5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/mockito-all-1.8.5.jar!/"/>
+	</lib>
+	<lib name="oro-2.0.8.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/oro-2.0.8.jar!/"/>
+	</lib>
+	<lib name="servlet-api-2.5-20081211.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/servlet-api-2.5-20081211.jar!/"/>
+	</lib>
+	<lib name="slf4j-api-1.4.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/slf4j-api-1.4.3.jar!/"/>
+	</lib>
+	<lib name="slf4j-log4j12-1.4.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/slf4j-log4j12-1.4.3.jar!/"/>
+	</lib>
+	<lib name="xmlenc-0.52.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/hadoop/xmlenc-0.52.jar!/"/>
+	</lib>
+	<lib name="commons-fileupload-1.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/upload/commons-fileupload-1.2.1.jar!/"/>
+	</lib>
+	<lib name="commons-io-2.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/upload/commons-io-2.2.jar!/"/>
+	</lib>
+	<lib name="conf" scope="COMPILE">
+		<relative-module-cls project-related="file://$PROJECT_DIR$/WebRoot/WEB-INF/conf"/>
+	</lib>
+	<lib name="Tomcat 7.0.62" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 7.0.62" value="application_server_libraries"/>
+	</levels>
+</component>
